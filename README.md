@@ -13,7 +13,6 @@ Meu nickname é str0ng, tenho 16 anos e sou estudante de Segurança da Informaç
 
 #### Programs
 - ![ide](https://img.shields.io/badge/-Intellij_Idea-000?style=flat-square&logo=intellij-idea)
-- ![visualstudio](https://img.shields.io/badge/-VisualStudio-000?style=flat-square&logo=visualstudio)
 
 ---
 <p align="center">
