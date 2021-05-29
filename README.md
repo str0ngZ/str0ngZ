@@ -1,3 +1,7 @@
+Olá!
+
+Meu nickname é str0ng, tenho 16 anos e sou estudante de Segurança da Informação e Developer.
+
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/62043732/115986777-3e0b5f00-a588-11eb-8b42-a20dc086e4ea.gif)
 ---
@@ -6,6 +10,7 @@
 
 #### Languages
 - ![java](https://img.shields.io/badge/-Java-0B4BB8?style=flat-square&logo=java)
+- ![visualstudio](https://img.shields.io/badge/-VisualStudio-0B4BB8?style=flat-square&logo=java)
 
 #### Programs
 - ![ide](https://img.shields.io/badge/-Intellij_Idea-000?style=flat-square&logo=intellij-idea)
