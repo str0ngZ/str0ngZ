@@ -1,10 +1,5 @@
 
-</p>
-
-<p align="center">
-    <img height="180em" src="https://user-images.githubusercontent.com/62043732/115986777-3e0b5f00-a588-11eb-8b42-a20dc086e4ea.gif"/>
-</p>
-
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/62043732/115986777-3e0b5f00-a588-11eb-8b42-a20dc086e4ea.gif)
 ---
 
 <img alt="af" src="https://cdn.discordapp.com/attachments/847213313939079188/848013109042085948/unknown.png" align="right"/>
