@@ -10,8 +10,8 @@ Meu nickname é str0ng, tenho 16 anos e sou estudante de Segurança da Informaç
 
 #### Languages
 ![java](https://img.shields.io/badge/-Java-000?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=black)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 #### Programs
   ![ide](https://img.shields.io/badge/-Intellij_Idea-000?style=flat-square&logo=intellij-idea)
