@@ -6,8 +6,6 @@ Meu nickname é str0ng, tenho 16 anos e sou estudante de Segurança da Informaç
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/62043732/115986777-3e0b5f00-a588-11eb-8b42-a20dc086e4ea.gif)
 ---
 
-<img alt="af" src="https://cdn.discordapp.com/attachments/847213313939079188/848013109042085948/unknown.png" align="right"/>
-
 #### Languages
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
