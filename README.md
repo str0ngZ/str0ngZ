@@ -13,9 +13,9 @@
 - ![java](https://img.shields.io/badge/-Java-0B4BB8?style=flat-square&logo=java)
 
 #### Programs
-- ![ide](https://img.shields.io/badge/-Intellij_Idea-0B4BB8?style=flat-square&logo=intellij-idea)
+- ![ide](https://img.shields.io/badge/-Intellij_Idea-000?style=flat-square&logo=intellij-idea)
 
 ---
 <p align="center">
-    <a href="https://discord.gg/PZ3ZPGvdnv"><img src="https://img.shields.io/badge/-ALPHA ｓｔｒ０ｎｇＺ_6970-F50069?style=flat-square&logo=discord"/></a>
+    <a href="https://discord.gg/PZ3ZPGvdnv"><img src="https://img.shields.io/badge/-ALPHA ｓｔｒ０ｎｇＺ_6970-0B4BB8?style=flat-square&logo=discord"/></a>
 </p>
